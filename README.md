@@ -20,7 +20,7 @@ A simple and elegant counter application built with HTML, CSS, and JavaScript. T
 
 ## Live Demo 🚀
 
-Check out the live demo: [https://iam269.github.io/Counter/](https://iam269.github.io/Counter/)
+Check out the live demo: [https://itsiamdev.github.io/Counter/](https://itsiamdev.github.io/Counter/)
 
 ## How to Use 🎯
 
